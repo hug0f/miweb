@@ -1,6 +1,6 @@
 <?php 
 
-echo "hola";
+echo "hola mundo";
 @print "Hola {$argv[1]}\n";
 
 ?>
