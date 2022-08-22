@@ -1,1 +1,3 @@
 hugo happy
+hugo triste
+figura
